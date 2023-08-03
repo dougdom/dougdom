@@ -1,7 +1,5 @@
 <h2> Hey there, I'm Douglas! 👋</h2>
 
-<img align='right' src="https://avatars.githubusercontent.com/u/10871263?v=4" width="230">
-
 <p><em>
   A brazilian <b>data analyst</b> driving growth strategies through <b>data-driven</b> insights.
 </em></p>
